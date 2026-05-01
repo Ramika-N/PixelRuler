@@ -10,7 +10,7 @@
 *   **Dual Orientation:** Switch between **Horizontal** and **Vertical** modes via the right-click menu.
 *   **Always on Top:** Stays above all other windows for seamless measuring.
 *   **Draggable Interface:** Click and drag to move the ruler anywhere on your screen.
-*   **Native Look:** Features a clean and professional UI (supports FlatLaf).
+*   **Native Look:** Features a clean and professional UI.
 *   **Lightweight:** Extremely low resource consumption.
 
 ---
@@ -38,7 +38,6 @@
 
 *   **Language:** Java
 *   **Framework:** Java Swing (AWT)
-*   **UI Library:** FlatLaf (for modern look and feel)
 
 ---
 
